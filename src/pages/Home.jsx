@@ -47,7 +47,7 @@ const Home = () => {
       
       {/* Hero Section */}
       <section className="relative bg-linear-to-br from-blue-900 via-blue-800 to-blue-600 text-white py-20 md:py-32" data-testid="hero-section">
-        <div className="absolute inset-0 bg-blue-600 opacity-20"></div>
+        <div className="absolute inset-0 bg-blue-700"></div>
         
         <div className="relative max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="text-center animate-fade-in">
